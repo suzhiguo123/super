@@ -1,0 +1,49 @@
+.page1 {
+	background: url(../img/1.jpg) no-repeat left top;
+	background-size: cover;
+}
+
+.page1 img {
+	position: absolute;
+}
+
+.page1 .img01 {
+
+	width: 3rem;
+	height: 8rem;
+	left: -.8rem;
+	top: -3rem;
+}
+
+.page1 .img02{
+	width: 2.5rem;
+	height: 4rem;
+	top: 3.3rem;
+	left: -.25rem;
+}
+
+.page1 .img03{
+	width: 2.4rem;
+	height: 3.8rem;
+	top: 3rem;
+	left: 2rem;
+}
+.page1 .img04{
+	width: 1.2rem;
+	height: 3rem;
+	top: 2rem;
+	left: .7rem;
+}
+.page1 .img05{
+	width: 2.5rem;
+	height: 2.7rem;
+	top: 3.5rem;
+	left: .5rem;
+}
+.page1 .img06{
+	width: 2.5rem;
+	height: 3rem;
+	top: 0;
+	left: 1rem;
+}
+
